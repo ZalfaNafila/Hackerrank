@@ -21,7 +21,3 @@ int main(){
 	}	
 	cout << ascore << " " << bscore;
 }
-
-
-
-
