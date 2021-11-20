@@ -14,4 +14,4 @@ int main(){
 			sum += arr[i];
 }
 		cout << sum;
-}
+} 
